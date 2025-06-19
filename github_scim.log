@@ -1,0 +1,172 @@
+2025-06-19 15:15:27,472 - github_scim - INFO - Creating user: johndoe@contosodemo.cn
+2025-06-19 15:15:28,220 - github_scim - ERROR - Request failed: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:15:28,220 - github_scim - ERROR - Error processing user johndoe@contosodemo.cn: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:15:28,914 - github_scim - INFO - Creating user: janedoe@contosodemo.cn
+2025-06-19 15:15:29,628 - github_scim - ERROR - Request failed: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:15:29,629 - github_scim - ERROR - Error processing user janedoe@contosodemo.cn: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:15:30,326 - github_scim - INFO - Creating user: bobsmith@contosodemo.cn
+2025-06-19 15:15:31,071 - github_scim - ERROR - Request failed: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:15:31,071 - github_scim - ERROR - Error processing user bobsmith@contosodemo.cn: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:15:31,072 - github_scim - INFO - Successfully completed user creation operation
+2025-06-19 15:18:23,415 - github_scim - INFO - Creating user: johndoe@contosodemo.cn
+2025-06-19 15:18:24,117 - github_scim - ERROR - Request failed: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:18:24,118 - github_scim - ERROR - Error processing user johndoe@contosodemo.cn: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:18:24,119 - github_scim - INFO - Successfully completed user creation operation
+2025-06-19 15:20:28,755 - github_scim - INFO - Creating user: johndoe@contosodemo.cn
+2025-06-19 15:20:29,370 - github_scim - ERROR - Request failed: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:20:29,370 - github_scim - ERROR - Error processing user johndoe@contosodemo.cn: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:20:29,371 - github_scim - INFO - Successfully completed user creation operation
+2025-06-19 15:24:50,133 - github_scim - INFO - Creating user: johndoe@contosodemo.cn
+2025-06-19 15:24:50,799 - github_scim - ERROR - Request failed: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:24:50,799 - github_scim - ERROR - Error processing user johndoe@contosodemo.cn: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:24:50,800 - github_scim - INFO - Successfully completed user creation operation
+2025-06-19 15:27:29,289 - github_scim - INFO - Creating user: johndoe@contosodemo.cn
+2025-06-19 15:27:29,899 - github_scim - ERROR - Request failed: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:27:29,900 - github_scim - ERROR - Error processing user johndoe@contosodemo.cn: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:27:29,901 - github_scim - INFO - Successfully completed user creation operation
+2025-06-19 15:33:36,012 - github_scim - INFO - Creating user: johndoe@contosodemo.cn
+2025-06-19 15:33:36,736 - github_scim - ERROR - Request failed: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:33:36,737 - github_scim - ERROR - Error processing user johndoe@contosodemo.cn: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:33:36,738 - github_scim - INFO - Successfully completed user creation operation
+2025-06-19 15:49:20,373 - github_scim - INFO - Creating user: johndoe@contosodemo.cn
+2025-06-19 15:49:20,373 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "johndoe@contosodemo.cn",
+  "active": true,
+  "userName": "johndoe@contosodemo.cn",
+  "displayName": "John Doe",
+  "emails": [
+    {
+      "value": [
+        {
+          "value": "john.doe@contosodemo.cn",
+          "type": "work",
+          "primary": true
+        }
+      ],
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": [
+        "user"
+      ],
+      "primary": true
+    }
+  ]
+}
+2025-06-19 15:49:20,374 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:49:21,006 - github_scim - ERROR - Request failed: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:49:21,007 - github_scim - ERROR - Error processing user johndoe@contosodemo.cn: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:49:21,008 - github_scim - INFO - Successfully completed user creation operation
+2025-06-19 15:57:58,015 - github_scim - INFO - Creating user: johndoe@contosodemo.cn
+2025-06-19 15:57:58,016 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "johndoe@contosodemo.cn",
+  "active": true,
+  "userName": "johndoe@contosodemo.cn",
+  "displayName": "John Doe",
+  "emails": [
+    {
+      "value": "john.doe@contosodemo.cn",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": [
+        "user"
+      ],
+      "primary": true
+    }
+  ]
+}
+2025-06-19 15:57:58,016 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:57:58,654 - github_scim - ERROR - Request failed: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:57:58,655 - github_scim - ERROR - Error processing user johndoe@contosodemo.cn: 400 Client Error: Bad Request for url: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 15:57:58,655 - github_scim - INFO - Successfully completed user creation operation
+2025-06-19 16:03:22,157 - github_scim - INFO - Creating user: johndoe@contosodemo.cn
+2025-06-19 16:03:22,158 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "johndoe@contosodemo.cn",
+  "active": true,
+  "userName": "johndoe@contosodemo.cn",
+  "displayName": "John Doe",
+  "emails": [
+    {
+      "value": "john.doe@contosodemo.cn",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-19 16:03:22,158 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 16:03:23,244 - github_scim - INFO - Created user johndoe@contosodemo.cn with ID dedbc4f4-4ce3-11f0-8e2f-b13ae968627a
+2025-06-19 16:03:23,244 - github_scim - INFO - Successfully completed user creation operation
+2025-06-19 16:05:40,222 - github_scim - INFO - User johndoe@contosodemo.cn already exists, skipping creation
+2025-06-19 16:05:40,872 - github_scim - INFO - Creating user: janedoe@contosodemo.cn
+2025-06-19 16:05:40,873 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "janedoe@contosodemo.cn",
+  "active": true,
+  "userName": "janedoe@contosodemo.cn",
+  "displayName": "Jane Doe",
+  "emails": [
+    {
+      "value": "jane.doe@contosodemo.cn",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-19 16:05:40,873 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 16:05:42,021 - github_scim - INFO - Created user janedoe@contosodemo.cn with ID 31949fd6-4ce4-11f0-9731-3c64432e7678
+2025-06-19 16:05:42,717 - github_scim - INFO - Creating user: bobsmith@contosodemo.cn
+2025-06-19 16:05:42,718 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "bobsmith@contosodemo.cn",
+  "active": true,
+  "userName": "bobsmith@contosodemo.cn",
+  "displayName": "Bob Smith",
+  "emails": [
+    {
+      "value": "bob.smith@contosodemo.cn",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-19 16:05:42,718 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/qfemu1/Users
+2025-06-19 16:05:43,944 - github_scim - INFO - Created user bobsmith@contosodemo.cn with ID 32b7e742-4ce4-11f0-9b4c-858b3e6b4e09
+2025-06-19 16:05:43,944 - github_scim - INFO - Successfully completed user creation operation
