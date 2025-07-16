@@ -46,7 +46,7 @@ class GithubScimClient:
             "Content-Type": "application/scim+json",
             "Accept": "application/scim+json"
         }
-        self.scim_endpoint = f"{self.base_url}/scim/v2/enterprises/qfemu1/Users"
+        self.scim_endpoint = f"{self.base_url}/scim/v2/enterprises/xfusion-digital-technologies/Users"
 
     def _make_request(self, method: str, url: str, data: Optional[Dict] = None) -> Dict:
         """

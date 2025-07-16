@@ -170,3 +170,3131 @@
 2025-06-19 16:05:42,718 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/qfemu1/Users
 2025-06-19 16:05:43,944 - github_scim - INFO - Created user bobsmith@contosodemo.cn with ID 32b7e742-4ce4-11f0-9b4c-858b3e6b4e09
 2025-06-19 16:05:43,944 - github_scim - INFO - Successfully completed user creation operation
+2025-06-20 10:00:58,047 - github_scim - INFO - Creating user: tianhe@xfusion.com
+2025-06-20 10:00:58,048 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "tianhe@xfusion.com",
+  "active": true,
+  "userName": "tianhe@xfusion.com",
+  "displayName": "Tian He",
+  "emails": [
+    {
+      "value": "tianhe@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "enterprise_owner",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 10:00:58,048 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 10:00:59,555 - github_scim - INFO - Created user tianhe@xfusion.com with ID 68c634f6-4d7a-11f0-904e-7f7c2f27f798
+2025-06-20 10:00:59,555 - github_scim - INFO - Successfully completed user creation operation
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,708 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - WARNING - Skipping user with missing userName
+2025-06-20 11:05:12,709 - github_scim - INFO - Successfully completed user creation operation
+2025-06-20 11:07:15,695 - github_scim - INFO - Creating user: fengyafan@xfusion.com
+2025-06-20 11:07:15,696 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "fengyafan@xfusion.com",
+  "active": true,
+  "userName": "fengyafan@xfusion.com",
+  "displayName": "fengyafan",
+  "emails": [
+    {
+      "value": "fengyafan@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:15,696 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:16,825 - github_scim - INFO - Created user fengyafan@xfusion.com with ID aba5f168-4d83-11f0-8af0-94c03b7e34e7
+2025-06-20 11:07:17,474 - github_scim - INFO - Creating user: fuwenfeng@xfusion.com
+2025-06-20 11:07:17,474 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "fuwenfeng@xfusion.com",
+  "active": true,
+  "userName": "fuwenfeng@xfusion.com",
+  "displayName": "fuwenfeng",
+  "emails": [
+    {
+      "value": "fuwenfeng@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:17,474 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:18,566 - github_scim - INFO - Created user fuwenfeng@xfusion.com with ID acb1e80a-4d83-11f0-9a75-fc02055c9a60
+2025-06-20 11:07:19,225 - github_scim - INFO - Creating user: gulizhe@xfusion.com
+2025-06-20 11:07:19,225 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "gulizhe@xfusion.com",
+  "active": true,
+  "userName": "gulizhe@xfusion.com",
+  "displayName": "gulizhe",
+  "emails": [
+    {
+      "value": "gulizhe@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:19,226 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:20,243 - github_scim - INFO - Created user gulizhe@xfusion.com with ID adbb03a8-4d83-11f0-9571-e7d6f3d81622
+2025-06-20 11:07:20,905 - github_scim - INFO - Creating user: jiaopengwei@xfusion.com
+2025-06-20 11:07:20,905 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "jiaopengwei@xfusion.com",
+  "active": true,
+  "userName": "jiaopengwei@xfusion.com",
+  "displayName": "jiaopengwei",
+  "emails": [
+    {
+      "value": "jiaopengwei@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:20,906 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:21,995 - github_scim - INFO - Created user jiaopengwei@xfusion.com with ID aebfea3e-4d83-11f0-89d0-1884687256ac
+2025-06-20 11:07:22,675 - github_scim - INFO - Creating user: jiaoqingxiang@xfusion.com
+2025-06-20 11:07:22,676 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "jiaoqingxiang@xfusion.com",
+  "active": true,
+  "userName": "jiaoqingxiang@xfusion.com",
+  "displayName": "jiaoqingxiang",
+  "emails": [
+    {
+      "value": "jiaoqingxiang@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:22,676 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:23,763 - github_scim - INFO - Created user jiaoqingxiang@xfusion.com with ID afcdd404-4d83-11f0-9b6e-413217548471
+2025-06-20 11:07:24,394 - github_scim - INFO - Creating user: leiyu3@xfusion.com
+2025-06-20 11:07:24,394 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "leiyu3@xfusion.com",
+  "active": true,
+  "userName": "leiyu3@xfusion.com",
+  "displayName": "leiyu",
+  "emails": [
+    {
+      "value": "leiyu3@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:24,394 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:25,393 - github_scim - INFO - Created user leiyu3@xfusion.com with ID b0cfb7fa-4d83-11f0-8e36-ca8c68b56bc2
+2025-06-20 11:07:26,050 - github_scim - INFO - Creating user: lijinchao@xfusion.com
+2025-06-20 11:07:26,050 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "lijinchao@xfusion.com",
+  "active": true,
+  "userName": "lijinchao@xfusion.com",
+  "displayName": "lijinchao",
+  "emails": [
+    {
+      "value": "lijinchao@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:26,050 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:27,073 - github_scim - INFO - Created user lijinchao@xfusion.com with ID b1cbd65c-4d83-11f0-9ef7-8e9ed4cfe0e3
+2025-06-20 11:07:27,705 - github_scim - INFO - Creating user: lishengpeng@xfusion.com
+2025-06-20 11:07:27,705 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "lishengpeng@xfusion.com",
+  "active": true,
+  "userName": "lishengpeng@xfusion.com",
+  "displayName": "lishengpeng",
+  "emails": [
+    {
+      "value": "lishengpeng@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:27,706 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:28,731 - github_scim - INFO - Created user lishengpeng@xfusion.com with ID b2c9f6e2-4d83-11f0-932b-ff34948dd090
+2025-06-20 11:07:29,385 - github_scim - INFO - Creating user: liujinfei@xfusion.com
+2025-06-20 11:07:29,385 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "liujinfei@xfusion.com",
+  "active": true,
+  "userName": "liujinfei@xfusion.com",
+  "displayName": "liujinfei",
+  "emails": [
+    {
+      "value": "liujinfei@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:29,385 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:30,352 - github_scim - INFO - Created user liujinfei@xfusion.com with ID b3c6e4d8-4d83-11f0-9305-6d1ba8245036
+2025-06-20 11:07:31,006 - github_scim - INFO - Creating user: liuwei6@xfusion.com
+2025-06-20 11:07:31,006 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "liuwei6@xfusion.com",
+  "active": true,
+  "userName": "liuwei6@xfusion.com",
+  "displayName": "liuwei6",
+  "emails": [
+    {
+      "value": "liuwei6@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:31,006 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:32,035 - github_scim - INFO - Created user liuwei6@xfusion.com with ID b4bf72ec-4d83-11f0-94f9-f79354cae7ee
+2025-06-20 11:07:32,689 - github_scim - INFO - Creating user: qinzhiqiang@xfusion.com
+2025-06-20 11:07:32,690 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "qinzhiqiang@xfusion.com",
+  "active": true,
+  "userName": "qinzhiqiang@xfusion.com",
+  "displayName": "qinzhiqiang",
+  "emails": [
+    {
+      "value": "qinzhiqiang@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:32,691 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:33,714 - github_scim - INFO - Created user qinzhiqiang@xfusion.com with ID b5c2aa60-4d83-11f0-8963-e762c3ea235a
+2025-06-20 11:07:34,384 - github_scim - INFO - Creating user: taoxueqian@xfusion.com
+2025-06-20 11:07:34,384 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "taoxueqian@xfusion.com",
+  "active": true,
+  "userName": "taoxueqian@xfusion.com",
+  "displayName": "taoxueqian",
+  "emails": [
+    {
+      "value": "taoxueqian@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:34,384 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:35,523 - github_scim - INFO - Created user taoxueqian@xfusion.com with ID b6d4bee8-4d83-11f0-8abb-9d9e3e3963b2
+2025-06-20 11:07:36,165 - github_scim - INFO - Creating user: wangwentong@xfusion.com
+2025-06-20 11:07:36,166 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wangwentong@xfusion.com",
+  "active": true,
+  "userName": "wangwentong@xfusion.com",
+  "displayName": "wangwentong",
+  "emails": [
+    {
+      "value": "wangwentong@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:36,166 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:37,235 - github_scim - INFO - Created user wangwentong@xfusion.com with ID b7d6302e-4d83-11f0-9187-ecd822db5c17
+2025-06-20 11:07:37,915 - github_scim - INFO - Creating user: wangxingyue@xfusion.com
+2025-06-20 11:07:37,916 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wangxingyue@xfusion.com",
+  "active": true,
+  "userName": "wangxingyue@xfusion.com",
+  "displayName": "wangxingyue",
+  "emails": [
+    {
+      "value": "wangxingyue@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:37,916 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:39,035 - github_scim - INFO - Created user wangxingyue@xfusion.com with ID b8ed05e6-4d83-11f0-9569-36a7674003b4
+2025-06-20 11:07:39,765 - github_scim - INFO - Creating user: wangzhengliang@xfusion.com
+2025-06-20 11:07:39,765 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wangzhengliang@xfusion.com",
+  "active": true,
+  "userName": "wangzhengliang@xfusion.com",
+  "displayName": "wangzhengliang",
+  "emails": [
+    {
+      "value": "wangzhengliang@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:39,765 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:40,713 - github_scim - INFO - Created user wangzhengliang@xfusion.com with ID b9f43108-4d83-11f0-8db9-7e957e7d38a3
+2025-06-20 11:07:41,345 - github_scim - INFO - Creating user: yangchenfeng@xfusion.com
+2025-06-20 11:07:41,346 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "yangchenfeng@xfusion.com",
+  "active": true,
+  "userName": "yangchenfeng@xfusion.com",
+  "displayName": "yangchenfeng",
+  "emails": [
+    {
+      "value": "yangchenfeng@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:41,346 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:42,505 - github_scim - INFO - Created user yangchenfeng@xfusion.com with ID baeff574-4d83-11f0-9d44-de2a6412f892
+2025-06-20 11:07:43,143 - github_scim - INFO - Creating user: yueyuan@xfusion.com
+2025-06-20 11:07:43,143 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "yueyuan@xfusion.com",
+  "active": true,
+  "userName": "yueyuan@xfusion.com",
+  "displayName": "yueyuan",
+  "emails": [
+    {
+      "value": "yueyuan@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:43,143 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:44,082 - github_scim - INFO - Created user yueyuan@xfusion.com with ID bbf429fe-4d83-11f0-9c8d-a989bd623d7d
+2025-06-20 11:07:44,704 - github_scim - INFO - Creating user: zhangbo2@xfusion.com
+2025-06-20 11:07:44,706 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhangbo2@xfusion.com",
+  "active": true,
+  "userName": "zhangbo2@xfusion.com",
+  "displayName": "zhangbo",
+  "emails": [
+    {
+      "value": "zhangbo2@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:44,707 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:45,679 - github_scim - INFO - Created user zhangbo2@xfusion.com with ID bce747b0-4d83-11f0-8fec-cf7413a7fe32
+2025-06-20 11:07:46,323 - github_scim - INFO - Creating user: zhangyisheng@xfusion.com
+2025-06-20 11:07:46,323 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhangyisheng@xfusion.com",
+  "active": true,
+  "userName": "zhangyisheng@xfusion.com",
+  "displayName": "zhangyisheng",
+  "emails": [
+    {
+      "value": "zhangyisheng@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:46,323 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:47,427 - github_scim - INFO - Created user zhangyisheng@xfusion.com with ID bdeced36-4d83-11f0-9a77-85c0448222cf
+2025-06-20 11:07:48,075 - github_scim - INFO - Creating user: zhangzhi@xfusion.com
+2025-06-20 11:07:48,076 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhangzhi@xfusion.com",
+  "active": true,
+  "userName": "zhangzhi@xfusion.com",
+  "displayName": "zhangzhi",
+  "emails": [
+    {
+      "value": "zhangzhi@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:48,076 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:49,205 - github_scim - INFO - Created user zhangzhi@xfusion.com with ID bef8ea40-4d83-11f0-9406-ebb69e124ce8
+2025-06-20 11:07:49,874 - github_scim - INFO - Creating user: zhanzhixuan@xfusion.com
+2025-06-20 11:07:49,875 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhanzhixuan@xfusion.com",
+  "active": true,
+  "userName": "zhanzhixuan@xfusion.com",
+  "displayName": "zhanzhixuan",
+  "emails": [
+    {
+      "value": "zhanzhixuan@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:49,875 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:50,885 - github_scim - INFO - Created user zhanzhixuan@xfusion.com with ID bfffd4b2-4d83-11f0-9eff-05c2a0bf0e24
+2025-06-20 11:07:51,555 - github_scim - INFO - Creating user: zhaozhiqiang@xfusion.com
+2025-06-20 11:07:51,555 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhaozhiqiang@xfusion.com",
+  "active": true,
+  "userName": "zhaozhiqiang@xfusion.com",
+  "displayName": "zhaozhiqiang",
+  "emails": [
+    {
+      "value": "zhaozhiqiang@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:51,555 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:52,624 - github_scim - INFO - Created user zhaozhiqiang@xfusion.com with ID c104d7cc-4d83-11f0-86e0-ca5aaa5a966d
+2025-06-20 11:07:53,266 - github_scim - INFO - Creating user: zhengyanfeng@xfusion.com
+2025-06-20 11:07:53,267 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhengyanfeng@xfusion.com",
+  "active": true,
+  "userName": "zhengyanfeng@xfusion.com",
+  "displayName": "zhengyanfeng",
+  "emails": [
+    {
+      "value": "zhengyanfeng@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:53,267 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:54,265 - github_scim - INFO - Created user zhengyanfeng@xfusion.com with ID c202e4ca-4d83-11f0-9f42-bad101c4e1f2
+2025-06-20 11:07:54,914 - github_scim - INFO - Creating user: zhuzhengyan@xfusion.com
+2025-06-20 11:07:54,914 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhuzhengyan@xfusion.com",
+  "active": true,
+  "userName": "zhuzhengyan@xfusion.com",
+  "displayName": "zhuzhengyan",
+  "emails": [
+    {
+      "value": "zhuzhengyan@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:54,914 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:55,979 - github_scim - INFO - Created user zhuzhengyan@xfusion.com with ID c3075018-4d83-11f0-9bac-fbaa9beb7d8c
+2025-06-20 11:07:56,624 - github_scim - INFO - Creating user: hubo3@xfusion.com
+2025-06-20 11:07:56,624 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "hubo3@xfusion.com",
+  "active": true,
+  "userName": "hubo3@xfusion.com",
+  "displayName": "hubo",
+  "emails": [
+    {
+      "value": "hubo3@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:56,624 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:57,625 - github_scim - INFO - Created user hubo3@xfusion.com with ID c403816c-4d83-11f0-966b-2528315a48a4
+2025-06-20 11:07:58,274 - github_scim - INFO - Creating user: xingwendong@xfusion.com
+2025-06-20 11:07:58,274 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "xingwendong@xfusion.com",
+  "active": true,
+  "userName": "xingwendong@xfusion.com",
+  "displayName": "xingwendong",
+  "emails": [
+    {
+      "value": "xingwendong@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:07:58,274 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:07:59,353 - github_scim - INFO - Created user xingwendong@xfusion.com with ID c508c9be-4d83-11f0-8ff9-2710525a314e
+2025-06-20 11:08:00,017 - github_scim - INFO - Creating user: wanghaichao@xfusion.com
+2025-06-20 11:08:00,017 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wanghaichao@xfusion.com",
+  "active": true,
+  "userName": "wanghaichao@xfusion.com",
+  "displayName": "wanghaichao",
+  "emails": [
+    {
+      "value": "wanghaichao@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:08:00,018 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:08:01,057 - github_scim - INFO - Created user wanghaichao@xfusion.com with ID c60db61c-4d83-11f0-8674-8769cde4bb30
+2025-06-20 11:08:01,704 - github_scim - INFO - Creating user: wutao@xfusion.com
+2025-06-20 11:08:01,704 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wutao@xfusion.com",
+  "active": true,
+  "userName": "wutao@xfusion.com",
+  "displayName": "wutao",
+  "emails": [
+    {
+      "value": "wutao@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-06-20 11:08:01,704 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-06-20 11:08:02,724 - github_scim - INFO - Created user wutao@xfusion.com with ID c70e4180-4d83-11f0-9c41-0dfe8b72ee04
+2025-06-20 11:08:02,725 - github_scim - INFO - Successfully completed user creation operation
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,788 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:56:25,789 - github_scim - INFO - Successfully completed user creation operation
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,182 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:58:00,183 - github_scim - INFO - Successfully completed user creation operation
+2025-07-01 19:59:43,973 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,973 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,973 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,973 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,973 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,973 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,973 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,973 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,973 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,973 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - WARNING - Skipping user with missing userName
+2025-07-01 19:59:43,974 - github_scim - INFO - Successfully completed user creation operation
+2025-07-01 20:04:37,260 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22fengyafan@xfusion.com%22
+2025-07-01 20:04:37,261 - github_scim - ERROR - Error processing user fengyafan@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22fengyafan@xfusion.com%22
+2025-07-01 20:04:38,419 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yangguanhua@xfusion.com%22
+2025-07-01 20:04:38,420 - github_scim - ERROR - Error processing user yangguanhua@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yangguanhua@xfusion.com%22
+2025-07-01 20:04:39,436 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22liuruosong@xfusion.com%22
+2025-07-01 20:04:39,437 - github_scim - ERROR - Error processing user liuruosong@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22liuruosong@xfusion.com%22
+2025-07-01 20:04:40,505 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22chenchunlin@xfusion.com%22
+2025-07-01 20:04:40,505 - github_scim - ERROR - Error processing user chenchunlin@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22chenchunlin@xfusion.com%22
+2025-07-01 20:04:41,526 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22mamengyue@xfusion.com%22
+2025-07-01 20:04:41,527 - github_scim - ERROR - Error processing user mamengyue@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22mamengyue@xfusion.com%22
+2025-07-01 20:04:42,511 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22zhangchunwei@xfusion.com%22
+2025-07-01 20:04:42,511 - github_scim - ERROR - Error processing user zhangchunwei@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22zhangchunwei@xfusion.com%22
+2025-07-01 20:04:43,529 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22dongbin@xfusion.com%22
+2025-07-01 20:04:43,529 - github_scim - ERROR - Error processing user dongbin@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22dongbin@xfusion.com%22
+2025-07-01 20:04:44,759 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22guoxiaojun@xfusion.com%22
+2025-07-01 20:04:44,760 - github_scim - ERROR - Error processing user guoxiaojun@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22guoxiaojun@xfusion.com%22
+2025-07-01 20:04:45,785 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22zhaoliu@xfusion.com%22
+2025-07-01 20:04:45,785 - github_scim - ERROR - Error processing user zhaoliu@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22zhaoliu@xfusion.com%22
+2025-07-01 20:04:46,813 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yile1@xfusion.com%22
+2025-07-01 20:04:46,813 - github_scim - ERROR - Error processing user yile1@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yile1@xfusion.com%22
+2025-07-01 20:04:47,783 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22wangzhiyang1@xfusion.com%22
+2025-07-01 20:04:47,783 - github_scim - ERROR - Error processing user wangzhiyang1@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22wangzhiyang1@xfusion.com%22
+2025-07-01 20:04:48,632 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22xiazhanbo1@xfusion.com%22
+2025-07-01 20:04:48,632 - github_scim - ERROR - Error processing user xiazhanbo1@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22xiazhanbo1@xfusion.com%22
+2025-07-01 20:04:49,336 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22hushuai@xfusion.com%22
+2025-07-01 20:04:49,336 - github_scim - ERROR - Error processing user hushuai@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22hushuai@xfusion.com%22
+2025-07-01 20:04:50,056 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22limiyuan@xfusion.com%22
+2025-07-01 20:04:50,057 - github_scim - ERROR - Error processing user limiyuan@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22limiyuan@xfusion.com%22
+2025-07-01 20:04:50,821 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22chenzhe@xfusion.com%22
+2025-07-01 20:04:50,821 - github_scim - ERROR - Error processing user chenzhe@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22chenzhe@xfusion.com%22
+2025-07-01 20:04:51,508 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yangkaifu@xfusion.com%22
+2025-07-01 20:04:51,508 - github_scim - ERROR - Error processing user yangkaifu@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yangkaifu@xfusion.com%22
+2025-07-01 20:04:52,208 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22caojia@xfusion.com%22
+2025-07-01 20:04:52,208 - github_scim - ERROR - Error processing user caojia@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22caojia@xfusion.com%22
+2025-07-01 20:04:52,945 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22wuweibing2@xfusion.com%22
+2025-07-01 20:04:52,946 - github_scim - ERROR - Error processing user wuweibing2@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22wuweibing2@xfusion.com%22
+2025-07-01 20:04:53,645 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22xiangkai@xfusion.com%22
+2025-07-01 20:04:53,645 - github_scim - ERROR - Error processing user xiangkai@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22xiangkai@xfusion.com%22
+2025-07-01 20:04:54,346 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22hushuai@xfusion.com%22
+2025-07-01 20:04:54,346 - github_scim - ERROR - Error processing user hushuai@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22hushuai@xfusion.com%22
+2025-07-01 20:04:55,052 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22cuixikun@xfusion.com%22
+2025-07-01 20:04:55,053 - github_scim - ERROR - Error processing user cuixikun@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22cuixikun@xfusion.com%22
+2025-07-01 20:04:55,770 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yangkaifu@xfusion.com%22
+2025-07-01 20:04:55,770 - github_scim - ERROR - Error processing user yangkaifu@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yangkaifu@xfusion.com%22
+2025-07-01 20:04:56,491 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22henachuan@xfusion.com%22
+2025-07-01 20:04:56,491 - github_scim - ERROR - Error processing user henachuan@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22henachuan@xfusion.com%22
+2025-07-01 20:04:57,173 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yuanzhiwen@xfusion.com%22
+2025-07-01 20:04:57,174 - github_scim - ERROR - Error processing user yuanzhiwen@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yuanzhiwen@xfusion.com%22
+2025-07-01 20:04:57,875 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22huminghui@xfusion.com%22
+2025-07-01 20:04:57,875 - github_scim - ERROR - Error processing user huminghui@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22huminghui@xfusion.com%22
+2025-07-01 20:04:58,605 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22denghui@xfusion.com%22
+2025-07-01 20:04:58,606 - github_scim - ERROR - Error processing user denghui@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22denghui@xfusion.com%22
+2025-07-01 20:04:59,312 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22caiwei1@xfusion.com%22
+2025-07-01 20:04:59,313 - github_scim - ERROR - Error processing user caiwei1@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22caiwei1@xfusion.com%22
+2025-07-01 20:05:00,026 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22liuyang1@xfusion.com%22
+2025-07-01 20:05:00,026 - github_scim - ERROR - Error processing user liuyang1@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22liuyang1@xfusion.com%22
+2025-07-01 20:05:00,737 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22liyiming@xfusion.com%22
+2025-07-01 20:05:00,738 - github_scim - ERROR - Error processing user liyiming@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22liyiming@xfusion.com%22
+2025-07-01 20:05:01,472 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yangtanjin@xfusion.com%22
+2025-07-01 20:05:01,473 - github_scim - ERROR - Error processing user yangtanjin@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yangtanjin@xfusion.com%22
+2025-07-01 20:05:02,173 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yangkejian@xfusion.com%22
+2025-07-01 20:05:02,174 - github_scim - ERROR - Error processing user yangkejian@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yangkejian@xfusion.com%22
+2025-07-01 20:05:02,876 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22sunjianxing@xfusion.com%22
+2025-07-01 20:05:02,876 - github_scim - ERROR - Error processing user sunjianxing@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22sunjianxing@xfusion.com%22
+2025-07-01 20:05:03,569 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22jiangxinghua@xfusion.com%22
+2025-07-01 20:05:03,569 - github_scim - ERROR - Error processing user jiangxinghua@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22jiangxinghua@xfusion.com%22
+2025-07-01 20:05:04,316 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22hanxiong@xfusion.com%22
+2025-07-01 20:05:04,317 - github_scim - ERROR - Error processing user hanxiong@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22hanxiong@xfusion.com%22
+2025-07-01 20:05:05,030 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22lipengke@xfusion.com%22
+2025-07-01 20:05:05,030 - github_scim - ERROR - Error processing user lipengke@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22lipengke@xfusion.com%22
+2025-07-01 20:05:05,756 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yanglanlan@xfusion.com%22
+2025-07-01 20:05:05,756 - github_scim - ERROR - Error processing user yanglanlan@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22yanglanlan@xfusion.com%22
+2025-07-01 20:05:06,471 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22guoqiangwei1@xfusion.com%22
+2025-07-01 20:05:06,471 - github_scim - ERROR - Error processing user guoqiangwei1@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22guoqiangwei1@xfusion.com%22
+2025-07-01 20:05:07,188 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22libing2@xfusion.com%22
+2025-07-01 20:05:07,188 - github_scim - ERROR - Error processing user libing2@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22libing2@xfusion.com%22
+2025-07-01 20:05:07,869 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22fengxiaobin@xfusion.com%22
+2025-07-01 20:05:07,869 - github_scim - ERROR - Error processing user fengxiaobin@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22fengxiaobin@xfusion.com%22
+2025-07-01 20:05:08,651 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22gedianchen@xfusion.com%22
+2025-07-01 20:05:08,651 - github_scim - ERROR - Error processing user gedianchen@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22gedianchen@xfusion.com%22
+2025-07-01 20:05:09,353 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22zhengzaichao@xfusion.com%22
+2025-07-01 20:05:09,353 - github_scim - ERROR - Error processing user zhengzaichao@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22zhengzaichao@xfusion.com%22
+2025-07-01 20:05:10,061 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22weishan1@xfusion.com%22
+2025-07-01 20:05:10,061 - github_scim - ERROR - Error processing user weishan1@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22weishan1@xfusion.com%22
+2025-07-01 20:05:10,769 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22weiwensi@xfusion.com%22
+2025-07-01 20:05:10,770 - github_scim - ERROR - Error processing user weiwensi@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22weiwensi@xfusion.com%22
+2025-07-01 20:05:11,466 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22zhaoshibo@xfusion.com%22
+2025-07-01 20:05:11,466 - github_scim - ERROR - Error processing user zhaoshibo@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22zhaoshibo@xfusion.com%22
+2025-07-01 20:05:12,153 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22heqionglong@xfusion.com%22
+2025-07-01 20:05:12,153 - github_scim - ERROR - Error processing user heqionglong@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22heqionglong@xfusion.com%22
+2025-07-01 20:05:12,841 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22chenglong@xfusion.com%22
+2025-07-01 20:05:12,841 - github_scim - ERROR - Error processing user chenglong@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22chenglong@xfusion.com%22
+2025-07-01 20:05:13,689 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22qinyangfan@xfusion.com%22
+2025-07-01 20:05:13,690 - github_scim - ERROR - Error processing user qinyangfan@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22qinyangfan@xfusion.com%22
+2025-07-01 20:05:14,386 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22libaofeng@xfusion.com%22
+2025-07-01 20:05:14,387 - github_scim - ERROR - Error processing user libaofeng@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22libaofeng@xfusion.com%22
+2025-07-01 20:05:15,108 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22duzhenlei@xfusion.com%22
+2025-07-01 20:05:15,108 - github_scim - ERROR - Error processing user duzhenlei@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22duzhenlei@xfusion.com%22
+2025-07-01 20:05:15,828 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22jiangdi@xfusion.com%22
+2025-07-01 20:05:15,828 - github_scim - ERROR - Error processing user jiangdi@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22jiangdi@xfusion.com%22
+2025-07-01 20:05:16,563 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22wangzhihua@xfusion.com%22
+2025-07-01 20:05:16,563 - github_scim - ERROR - Error processing user wangzhihua@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22wangzhihua@xfusion.com%22
+2025-07-01 20:05:17,273 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22xiaolei@xfusion.com%22
+2025-07-01 20:05:17,273 - github_scim - ERROR - Error processing user xiaolei@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22xiaolei@xfusion.com%22
+2025-07-01 20:05:18,003 - github_scim - ERROR - Request failed: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22songlonghui@xfusion.com%22
+2025-07-01 20:05:18,004 - github_scim - ERROR - Error processing user songlonghui@xfusion.com: 404 Client Error: Not Found for url: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users?filter=userName%20eq%20%22songlonghui@xfusion.com%22
+2025-07-01 20:05:18,005 - github_scim - INFO - Successfully completed user creation operation
+2025-07-01 20:11:15,921 - github_scim - INFO - User fengyafan@xfusion.com already exists, skipping creation
+2025-07-01 20:11:16,549 - github_scim - INFO - Creating user: yangguanhua@xfusion.com
+2025-07-01 20:11:16,549 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "yangguanhua@xfusion.com",
+  "active": true,
+  "userName": "yangguanhua@xfusion.com",
+  "displayName": "yangguanhua",
+  "emails": [
+    {
+      "value": "yangguanhua@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:16,549 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:17,736 - github_scim - INFO - Created user yangguanhua@xfusion.com with ID 7dd01e68-5674-11f0-913e-c96c63ec08e3
+2025-07-01 20:11:18,325 - github_scim - INFO - Creating user: liuruosong@xfusion.com
+2025-07-01 20:11:18,325 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "liuruosong@xfusion.com",
+  "active": true,
+  "userName": "liuruosong@xfusion.com",
+  "displayName": "liuruosong",
+  "emails": [
+    {
+      "value": "liuruosong@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:18,326 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:19,398 - github_scim - INFO - Created user liuruosong@xfusion.com with ID 7ed4f2ca-5674-11f0-89e5-c2de5e049540
+2025-07-01 20:11:20,029 - github_scim - INFO - Creating user: chenchunlin@xfusion.com
+2025-07-01 20:11:20,029 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "chenchunlin@xfusion.com",
+  "active": true,
+  "userName": "chenchunlin@xfusion.com",
+  "displayName": "chenchunlin",
+  "emails": [
+    {
+      "value": "chenchunlin@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:20,029 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:21,018 - github_scim - INFO - Created user chenchunlin@xfusion.com with ID 7fccb1d6-5674-11f0-8e01-21008ab3107e
+2025-07-01 20:11:21,624 - github_scim - INFO - Creating user: mamengyue@xfusion.com
+2025-07-01 20:11:21,624 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "mamengyue@xfusion.com",
+  "active": true,
+  "userName": "mamengyue@xfusion.com",
+  "displayName": "mamengyue",
+  "emails": [
+    {
+      "value": "mamengyue@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:21,624 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:22,663 - github_scim - INFO - Created user mamengyue@xfusion.com with ID 80c58158-5674-11f0-8d86-507a43f10d1b
+2025-07-01 20:11:23,248 - github_scim - INFO - Creating user: zhangchunwei@xfusion.com
+2025-07-01 20:11:23,249 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhangchunwei@xfusion.com",
+  "active": true,
+  "userName": "zhangchunwei@xfusion.com",
+  "displayName": "zhangchunwei",
+  "emails": [
+    {
+      "value": "zhangchunwei@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:23,249 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:24,351 - github_scim - INFO - Created user zhangchunwei@xfusion.com with ID 81b7a942-5674-11f0-823f-1e44b3a3f888
+2025-07-01 20:11:24,932 - github_scim - INFO - Creating user: dongbin@xfusion.com
+2025-07-01 20:11:24,932 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "dongbin@xfusion.com",
+  "active": true,
+  "userName": "dongbin@xfusion.com",
+  "displayName": "dongbin",
+  "emails": [
+    {
+      "value": "dongbin@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:24,933 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:25,991 - github_scim - INFO - Created user dongbin@xfusion.com with ID 82c4982c-5674-11f0-85d1-c6aad311799a
+2025-07-01 20:11:26,552 - github_scim - INFO - Creating user: guoxiaojun@xfusion.com
+2025-07-01 20:11:26,553 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "guoxiaojun@xfusion.com",
+  "active": true,
+  "userName": "guoxiaojun@xfusion.com",
+  "displayName": "guoxiaojun",
+  "emails": [
+    {
+      "value": "guoxiaojun@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:26,553 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:27,603 - github_scim - INFO - Created user guoxiaojun@xfusion.com with ID 83b903e4-5674-11f0-9867-860b4e067bb1
+2025-07-01 20:11:28,224 - github_scim - INFO - Creating user: zhaoliu@xfusion.com
+2025-07-01 20:11:28,224 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhaoliu@xfusion.com",
+  "active": true,
+  "userName": "zhaoliu@xfusion.com",
+  "displayName": "zhaoliu",
+  "emails": [
+    {
+      "value": "zhaoliu@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:28,224 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:29,355 - github_scim - INFO - Created user zhaoliu@xfusion.com with ID 84c12e4c-5674-11f0-8607-f06064161c73
+2025-07-01 20:11:29,938 - github_scim - INFO - Creating user: yile1@xfusion.com
+2025-07-01 20:11:29,939 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "yile1@xfusion.com",
+  "active": true,
+  "userName": "yile1@xfusion.com",
+  "displayName": "yile",
+  "emails": [
+    {
+      "value": "yile1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:29,939 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:31,198 - github_scim - INFO - Created user yile1@xfusion.com with ID 85c51e48-5674-11f0-893c-ea46fa5917ca
+2025-07-01 20:11:31,802 - github_scim - INFO - Creating user: wangzhiyang1@xfusion.com
+2025-07-01 20:11:31,802 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wangzhiyang1@xfusion.com",
+  "active": true,
+  "userName": "wangzhiyang1@xfusion.com",
+  "displayName": "wangzhiyang1",
+  "emails": [
+    {
+      "value": "wangzhiyang1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:31,803 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:32,908 - github_scim - INFO - Created user wangzhiyang1@xfusion.com with ID 86dede36-5674-11f0-9e93-9d3423e0f193
+2025-07-01 20:11:33,519 - github_scim - INFO - Creating user: xiazhanbo1@xfusion.com
+2025-07-01 20:11:33,519 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "xiazhanbo1@xfusion.com",
+  "active": true,
+  "userName": "xiazhanbo1@xfusion.com",
+  "displayName": "xiazhanbo",
+  "emails": [
+    {
+      "value": "xiazhanbo1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:33,520 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:34,629 - github_scim - INFO - Created user xiazhanbo1@xfusion.com with ID 87def104-5674-11f0-805b-2c889130e4f4
+2025-07-01 20:11:35,195 - github_scim - INFO - Creating user: hushuai@xfusion.com
+2025-07-01 20:11:35,196 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "hushuai@xfusion.com",
+  "active": true,
+  "userName": "hushuai@xfusion.com",
+  "displayName": "hushuai",
+  "emails": [
+    {
+      "value": "hushuai@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:35,196 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:36,211 - github_scim - INFO - Created user hushuai@xfusion.com with ID 88d85cc6-5674-11f0-8349-36d8ef521336
+2025-07-01 20:11:36,826 - github_scim - INFO - Creating user: limiyuan@xfusion.com
+2025-07-01 20:11:36,826 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "limiyuan@xfusion.com",
+  "active": true,
+  "userName": "limiyuan@xfusion.com",
+  "displayName": "limiyuan",
+  "emails": [
+    {
+      "value": "limiyuan@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:36,827 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:37,746 - github_scim - INFO - Created user limiyuan@xfusion.com with ID 89cfb818-5674-11f0-934c-40859abd61b7
+2025-07-01 20:11:38,359 - github_scim - INFO - Creating user: chenzhe@xfusion.com
+2025-07-01 20:11:38,359 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "chenzhe@xfusion.com",
+  "active": true,
+  "userName": "chenzhe@xfusion.com",
+  "displayName": "chenzhe",
+  "emails": [
+    {
+      "value": "chenzhe@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:38,360 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:39,292 - github_scim - INFO - Created user chenzhe@xfusion.com with ID 8ab366b2-5674-11f0-84c6-25abe05205e1
+2025-07-01 20:11:39,879 - github_scim - INFO - Creating user: yangkaifu@xfusion.com
+2025-07-01 20:11:39,879 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "yangkaifu@xfusion.com",
+  "active": true,
+  "userName": "yangkaifu@xfusion.com",
+  "displayName": "yangkaifu",
+  "emails": [
+    {
+      "value": "yangkaifu@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:39,880 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:40,948 - github_scim - INFO - Created user yangkaifu@xfusion.com with ID 8baa3a50-5674-11f0-8ea1-dc8ea2f5baad
+2025-07-01 20:11:41,541 - github_scim - INFO - Creating user: caojia@xfusion.com
+2025-07-01 20:11:41,542 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "caojia@xfusion.com",
+  "active": true,
+  "userName": "caojia@xfusion.com",
+  "displayName": "caojia",
+  "emails": [
+    {
+      "value": "caojia@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:41,542 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:42,577 - github_scim - INFO - Created user caojia@xfusion.com with ID 8ca60b0a-5674-11f0-9c63-3f9d0569f42a
+2025-07-01 20:11:43,167 - github_scim - INFO - Creating user: wuweibing2@xfusion.com
+2025-07-01 20:11:43,168 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wuweibing2@xfusion.com",
+  "active": true,
+  "userName": "wuweibing2@xfusion.com",
+  "displayName": "wuweibing",
+  "emails": [
+    {
+      "value": "wuweibing2@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:43,168 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:44,084 - github_scim - INFO - Created user wuweibing2@xfusion.com with ID 8d945c06-5674-11f0-83d3-5227c2d22df6
+2025-07-01 20:11:44,683 - github_scim - INFO - Creating user: xiangkai@xfusion.com
+2025-07-01 20:11:44,684 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "xiangkai@xfusion.com",
+  "active": true,
+  "userName": "xiangkai@xfusion.com",
+  "displayName": "xiangkai",
+  "emails": [
+    {
+      "value": "xiangkai@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:44,684 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:45,676 - github_scim - INFO - Created user xiangkai@xfusion.com with ID 8e810880-5674-11f0-8256-8d718d426bf5
+2025-07-01 20:11:46,284 - github_scim - INFO - User hushuai@xfusion.com already exists, skipping creation
+2025-07-01 20:11:46,897 - github_scim - INFO - Creating user: cuixikun@xfusion.com
+2025-07-01 20:11:46,898 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "cuixikun@xfusion.com",
+  "active": true,
+  "userName": "cuixikun@xfusion.com",
+  "displayName": "cuixikun",
+  "emails": [
+    {
+      "value": "cuixikun@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:46,899 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:47,984 - github_scim - INFO - Created user cuixikun@xfusion.com with ID 8fd560aa-5674-11f0-8c40-ddc971545aa0
+2025-07-01 20:11:48,610 - github_scim - INFO - User yangkaifu@xfusion.com already exists, skipping creation
+2025-07-01 20:11:49,196 - github_scim - INFO - Creating user: henachuan@xfusion.com
+2025-07-01 20:11:49,196 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "henachuan@xfusion.com",
+  "active": true,
+  "userName": "henachuan@xfusion.com",
+  "displayName": "henachuan",
+  "emails": [
+    {
+      "value": "henachuan@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:49,196 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:50,713 - github_scim - INFO - Created user henachuan@xfusion.com with ID 917f4dee-5674-11f0-8474-9be4c44f481c
+2025-07-01 20:11:51,300 - github_scim - INFO - Creating user: yuanzhiwen@xfusion.com
+2025-07-01 20:11:51,301 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "yuanzhiwen@xfusion.com",
+  "active": true,
+  "userName": "yuanzhiwen@xfusion.com",
+  "displayName": "yuanzhiwen",
+  "emails": [
+    {
+      "value": "yuanzhiwen@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:51,301 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:52,314 - github_scim - INFO - Created user yuanzhiwen@xfusion.com with ID 92720610-5674-11f0-80ab-5a8485f93b5b
+2025-07-01 20:11:52,899 - github_scim - INFO - Creating user: huminghui@xfusion.com
+2025-07-01 20:11:52,899 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "huminghui@xfusion.com",
+  "active": true,
+  "userName": "huminghui@xfusion.com",
+  "displayName": "huminghui",
+  "emails": [
+    {
+      "value": "huminghui@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:52,899 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:53,876 - github_scim - INFO - Created user huminghui@xfusion.com with ID 936a18b4-5674-11f0-9199-0d17e0445b03
+2025-07-01 20:11:54,466 - github_scim - INFO - Creating user: denghui@xfusion.com
+2025-07-01 20:11:54,467 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "denghui@xfusion.com",
+  "active": true,
+  "userName": "denghui@xfusion.com",
+  "displayName": "denghui",
+  "emails": [
+    {
+      "value": "denghui@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:54,467 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:55,526 - github_scim - INFO - Created user denghui@xfusion.com with ID 946034e2-5674-11f0-95d4-26cced369eba
+2025-07-01 20:11:56,143 - github_scim - INFO - Creating user: caiwei1@xfusion.com
+2025-07-01 20:11:56,144 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "caiwei1@xfusion.com",
+  "active": true,
+  "userName": "caiwei1@xfusion.com",
+  "displayName": "caiwei",
+  "emails": [
+    {
+      "value": "caiwei1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:56,144 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:57,229 - github_scim - INFO - Created user caiwei1@xfusion.com with ID 9562fbcc-5674-11f0-9221-0361ddf1d742
+2025-07-01 20:11:57,828 - github_scim - INFO - Creating user: liuyang1@xfusion.com
+2025-07-01 20:11:57,829 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "liuyang1@xfusion.com",
+  "active": true,
+  "userName": "liuyang1@xfusion.com",
+  "displayName": "liuyang",
+  "emails": [
+    {
+      "value": "liuyang1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:57,829 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:11:59,103 - github_scim - INFO - Created user liuyang1@xfusion.com with ID 96838bac-5674-11f0-8d80-7f8dcdfb4cb1
+2025-07-01 20:11:59,689 - github_scim - INFO - Creating user: liyiming@xfusion.com
+2025-07-01 20:11:59,689 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "liyiming@xfusion.com",
+  "active": true,
+  "userName": "liyiming@xfusion.com",
+  "displayName": "liyiming",
+  "emails": [
+    {
+      "value": "liyiming@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:11:59,689 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:00,716 - github_scim - INFO - Created user liyiming@xfusion.com with ID 97782568-5674-11f0-8b06-fd0a2796adb0
+2025-07-01 20:12:01,357 - github_scim - INFO - Creating user: yangtanjin@xfusion.com
+2025-07-01 20:12:01,357 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "yangtanjin@xfusion.com",
+  "active": true,
+  "userName": "yangtanjin@xfusion.com",
+  "displayName": "yangtanjin",
+  "emails": [
+    {
+      "value": "yangtanjin@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:01,358 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:02,380 - github_scim - INFO - Created user yangtanjin@xfusion.com with ID 98747ae8-5674-11f0-8219-78d7a965948c
+2025-07-01 20:12:02,978 - github_scim - INFO - Creating user: yangkejian@xfusion.com
+2025-07-01 20:12:02,979 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "yangkejian@xfusion.com",
+  "active": true,
+  "userName": "yangkejian@xfusion.com",
+  "displayName": "yangkejian",
+  "emails": [
+    {
+      "value": "yangkejian@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:02,979 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:04,137 - github_scim - INFO - Created user yangkejian@xfusion.com with ID 997b923c-5674-11f0-8faa-05034580f3aa
+2025-07-01 20:12:04,735 - github_scim - INFO - Creating user: sunjianxing@xfusion.com
+2025-07-01 20:12:04,736 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "sunjianxing@xfusion.com",
+  "active": true,
+  "userName": "sunjianxing@xfusion.com",
+  "displayName": "sunjianxing",
+  "emails": [
+    {
+      "value": "sunjianxing@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:04,736 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:05,720 - github_scim - INFO - Created user sunjianxing@xfusion.com with ID 9a72172e-5674-11f0-9921-45b1af8f24f4
+2025-07-01 20:12:06,317 - github_scim - INFO - Creating user: jiangxinghua@xfusion.com
+2025-07-01 20:12:06,317 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "jiangxinghua@xfusion.com",
+  "active": true,
+  "userName": "jiangxinghua@xfusion.com",
+  "displayName": "jiangxinghua",
+  "emails": [
+    {
+      "value": "jiangxinghua@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:06,317 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:07,300 - github_scim - INFO - Created user jiangxinghua@xfusion.com with ID 9b67b94a-5674-11f0-91a0-ae280f20cd0b
+2025-07-01 20:12:07,884 - github_scim - INFO - Creating user: hanxiong@xfusion.com
+2025-07-01 20:12:07,884 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "hanxiong@xfusion.com",
+  "active": true,
+  "userName": "hanxiong@xfusion.com",
+  "displayName": "hanxiong",
+  "emails": [
+    {
+      "value": "hanxiong@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:07,884 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:09,010 - github_scim - INFO - Created user hanxiong@xfusion.com with ID 9c644516-5674-11f0-9578-32b2bb51ee4a
+2025-07-01 20:12:09,601 - github_scim - INFO - Creating user: lipengke@xfusion.com
+2025-07-01 20:12:09,601 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "lipengke@xfusion.com",
+  "active": true,
+  "userName": "lipengke@xfusion.com",
+  "displayName": "lipengke",
+  "emails": [
+    {
+      "value": "lipengke@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:09,602 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:10,643 - github_scim - INFO - Created user lipengke@xfusion.com with ID 9d607a7a-5674-11f0-9c6c-7335fadb8992
+2025-07-01 20:12:11,264 - github_scim - INFO - Creating user: yanglanlan@xfusion.com
+2025-07-01 20:12:11,264 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "yanglanlan@xfusion.com",
+  "active": true,
+  "userName": "yanglanlan@xfusion.com",
+  "displayName": "yanglanlan",
+  "emails": [
+    {
+      "value": "yanglanlan@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:11,265 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:12,281 - github_scim - INFO - Created user yanglanlan@xfusion.com with ID 9e60d29e-5674-11f0-8e1c-7bee13b4f0d5
+2025-07-01 20:12:12,868 - github_scim - INFO - Creating user: guoqiangwei1@xfusion.com
+2025-07-01 20:12:12,868 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "guoqiangwei1@xfusion.com",
+  "active": true,
+  "userName": "guoqiangwei1@xfusion.com",
+  "displayName": "guoqiangwei",
+  "emails": [
+    {
+      "value": "guoqiangwei1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:12,868 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:14,336 - github_scim - INFO - Created user guoqiangwei1@xfusion.com with ID 9f87e82e-5674-11f0-8106-20638816fcf2
+2025-07-01 20:12:15,000 - github_scim - INFO - Creating user: libing2@xfusion.com
+2025-07-01 20:12:15,001 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "libing2@xfusion.com",
+  "active": true,
+  "userName": "libing2@xfusion.com",
+  "displayName": "libing",
+  "emails": [
+    {
+      "value": "libing2@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:15,001 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:16,001 - github_scim - INFO - Created user libing2@xfusion.com with ID a096839c-5674-11f0-806d-fff9f527c349
+2025-07-01 20:12:16,589 - github_scim - INFO - Creating user: fengxiaobin@xfusion.com
+2025-07-01 20:12:16,589 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "fengxiaobin@xfusion.com",
+  "active": true,
+  "userName": "fengxiaobin@xfusion.com",
+  "displayName": "fengxiaobin",
+  "emails": [
+    {
+      "value": "fengxiaobin@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:16,590 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:17,636 - github_scim - INFO - Created user fengxiaobin@xfusion.com with ID a18cd6c0-5674-11f0-85cd-9a86ae8eda26
+2025-07-01 20:12:18,254 - github_scim - INFO - Creating user: gedianchen@xfusion.com
+2025-07-01 20:12:18,255 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "gedianchen@xfusion.com",
+  "active": true,
+  "userName": "gedianchen@xfusion.com",
+  "displayName": "gedianchen",
+  "emails": [
+    {
+      "value": "gedianchen@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:18,255 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:19,369 - github_scim - INFO - Created user gedianchen@xfusion.com with ID a28e351e-5674-11f0-870f-a20c4cbd1c2b
+2025-07-01 20:12:19,960 - github_scim - INFO - Creating user: zhengzaichao@xfusion.com
+2025-07-01 20:12:19,961 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhengzaichao@xfusion.com",
+  "active": true,
+  "userName": "zhengzaichao@xfusion.com",
+  "displayName": "zhengzaichao",
+  "emails": [
+    {
+      "value": "zhengzaichao@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:19,961 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:21,023 - github_scim - INFO - Created user zhengzaichao@xfusion.com with ID a392ff94-5674-11f0-804d-9a0b3b4dc7c4
+2025-07-01 20:12:21,656 - github_scim - INFO - Creating user: weishan1@xfusion.com
+2025-07-01 20:12:21,657 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "weishan1@xfusion.com",
+  "active": true,
+  "userName": "weishan1@xfusion.com",
+  "displayName": "weishan1",
+  "emails": [
+    {
+      "value": "weishan1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:21,657 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:22,706 - github_scim - INFO - Created user weishan1@xfusion.com with ID a48c83e8-5674-11f0-8967-50e621ce0713
+2025-07-01 20:12:23,313 - github_scim - INFO - Creating user: weiwensi@xfusion.com
+2025-07-01 20:12:23,313 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "weiwensi@xfusion.com",
+  "active": true,
+  "userName": "weiwensi@xfusion.com",
+  "displayName": "weiwensi",
+  "emails": [
+    {
+      "value": "weiwensi@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:23,313 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:24,472 - github_scim - INFO - Created user weiwensi@xfusion.com with ID a58f6b8e-5674-11f0-941b-12372d7da84b
+2025-07-01 20:12:25,055 - github_scim - INFO - Creating user: zhaoshibo@xfusion.com
+2025-07-01 20:12:25,056 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhaoshibo@xfusion.com",
+  "active": true,
+  "userName": "zhaoshibo@xfusion.com",
+  "displayName": "zhaoshibo",
+  "emails": [
+    {
+      "value": "zhaoshibo@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:25,056 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:26,241 - github_scim - INFO - Created user zhaoshibo@xfusion.com with ID a6a40340-5674-11f0-86b8-293cce852e1a
+2025-07-01 20:12:26,847 - github_scim - INFO - Creating user: heqionglong@xfusion.com
+2025-07-01 20:12:26,848 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "heqionglong@xfusion.com",
+  "active": true,
+  "userName": "heqionglong@xfusion.com",
+  "displayName": "heqionglong",
+  "emails": [
+    {
+      "value": "heqionglong@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:26,848 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:27,958 - github_scim - INFO - Created user heqionglong@xfusion.com with ID a7b2f052-5674-11f0-82af-8b672d62cb03
+2025-07-01 20:12:28,580 - github_scim - INFO - Creating user: chenglong@xfusion.com
+2025-07-01 20:12:28,580 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "chenglong@xfusion.com",
+  "active": true,
+  "userName": "chenglong@xfusion.com",
+  "displayName": "chenglong",
+  "emails": [
+    {
+      "value": "chenglong@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:28,580 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:29,603 - github_scim - INFO - Created user chenglong@xfusion.com with ID a8af0e5a-5674-11f0-88c3-e194e981266d
+2025-07-01 20:12:30,203 - github_scim - INFO - Creating user: qinyangfan@xfusion.com
+2025-07-01 20:12:30,203 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "qinyangfan@xfusion.com",
+  "active": true,
+  "userName": "qinyangfan@xfusion.com",
+  "displayName": "qinyangfan",
+  "emails": [
+    {
+      "value": "qinyangfan@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:30,203 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:31,210 - github_scim - INFO - Created user qinyangfan@xfusion.com with ID a9a56714-5674-11f0-8b6c-29ce88b0246e
+2025-07-01 20:12:31,811 - github_scim - INFO - Creating user: libaofeng@xfusion.com
+2025-07-01 20:12:31,812 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "libaofeng@xfusion.com",
+  "active": true,
+  "userName": "libaofeng@xfusion.com",
+  "displayName": "libaofeng",
+  "emails": [
+    {
+      "value": "libaofeng@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:31,812 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:33,092 - github_scim - INFO - Created user libaofeng@xfusion.com with ID aaba32ba-5674-11f0-82db-bc5591517b3b
+2025-07-01 20:12:33,715 - github_scim - INFO - Creating user: duzhenlei@xfusion.com
+2025-07-01 20:12:33,715 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "duzhenlei@xfusion.com",
+  "active": true,
+  "userName": "duzhenlei@xfusion.com",
+  "displayName": "duzhenlei",
+  "emails": [
+    {
+      "value": "duzhenlei@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:33,716 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:34,765 - github_scim - INFO - Created user duzhenlei@xfusion.com with ID abbdaad4-5674-11f0-92ef-a7640978870d
+2025-07-01 20:12:35,395 - github_scim - INFO - Creating user: jiangdi@xfusion.com
+2025-07-01 20:12:35,396 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "jiangdi@xfusion.com",
+  "active": true,
+  "userName": "jiangdi@xfusion.com",
+  "displayName": "jiangdi",
+  "emails": [
+    {
+      "value": "jiangdi@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:35,396 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:36,566 - github_scim - INFO - Created user jiangdi@xfusion.com with ID acd30acc-5674-11f0-8bf9-bebfd3f3c4d7
+2025-07-01 20:12:37,146 - github_scim - INFO - Creating user: wangzhihua@xfusion.com
+2025-07-01 20:12:37,147 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wangzhihua@xfusion.com",
+  "active": true,
+  "userName": "wangzhihua@xfusion.com",
+  "displayName": "wangzhihua",
+  "emails": [
+    {
+      "value": "wangzhihua@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:37,147 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:38,106 - github_scim - INFO - Created user wangzhihua@xfusion.com with ID adc17e00-5674-11f0-8cba-a2832cb18f91
+2025-07-01 20:12:38,706 - github_scim - INFO - Creating user: xiaolei@xfusion.com
+2025-07-01 20:12:38,706 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "xiaolei@xfusion.com",
+  "active": true,
+  "userName": "xiaolei@xfusion.com",
+  "displayName": "xiaolei",
+  "emails": [
+    {
+      "value": "xiaolei@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:38,706 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:39,747 - github_scim - INFO - Created user xiaolei@xfusion.com with ID aeb72d3c-5674-11f0-844a-9ca9e86157cf
+2025-07-01 20:12:40,343 - github_scim - INFO - Creating user: songlonghui@xfusion.com
+2025-07-01 20:12:40,344 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "songlonghui@xfusion.com",
+  "active": true,
+  "userName": "songlonghui@xfusion.com",
+  "displayName": "songlonghui",
+  "emails": [
+    {
+      "value": "songlonghui@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-01 20:12:40,344 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-01 20:12:41,333 - github_scim - INFO - Created user songlonghui@xfusion.com with ID afad0036-5674-11f0-83b8-b8ae3bb4b51f
+2025-07-01 20:12:41,333 - github_scim - INFO - Successfully completed user creation operation
+2025-07-09 09:46:32,996 - github_scim - INFO - Creating user: shenxiangyu@xfusion.com
+2025-07-09 09:46:32,997 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "shenxiangyu@xfusion.com",
+  "active": true,
+  "userName": "shenxiangyu@xfusion.com",
+  "displayName": "shenxiangyu",
+  "emails": [
+    {
+      "value": "shenxiangyu@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:46:32,997 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:46:34,319 - github_scim - INFO - Created user shenxiangyu@xfusion.com with ID 8b0cbe86-5c66-11f0-9fe2-9107bffe5e81
+2025-07-09 09:46:35,322 - github_scim - INFO - Creating user: tangqiannan@xfusion.com
+2025-07-09 09:46:35,322 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "tangqiannan@xfusion.com",
+  "active": true,
+  "userName": "tangqiannan@xfusion.com",
+  "displayName": "tangqiannan",
+  "emails": [
+    {
+      "value": "tangqiannan@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:46:35,322 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:46:36,641 - github_scim - INFO - Created user tangqiannan@xfusion.com with ID 8c76840a-5c66-11f0-92f3-7fa5ad4476a4
+2025-07-09 09:46:38,243 - github_scim - INFO - Creating user: zhaomingrui@xfusion.com
+2025-07-09 09:46:38,244 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhaomingrui@xfusion.com",
+  "active": true,
+  "userName": "zhaomingrui@xfusion.com",
+  "displayName": "zhaomingrui",
+  "emails": [
+    {
+      "value": "zhaomingrui@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:46:38,244 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:46:39,588 - github_scim - INFO - Created user zhaomingrui@xfusion.com with ID 8e23dcd0-5c66-11f0-9bbb-494c3bb7f7a5
+2025-07-09 09:46:40,462 - github_scim - INFO - Creating user: yinpengcheng@xfusion.com
+2025-07-09 09:46:40,463 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "yinpengcheng@xfusion.com",
+  "active": true,
+  "userName": "yinpengcheng@xfusion.com",
+  "displayName": "yinpengcheng",
+  "emails": [
+    {
+      "value": "yinpengcheng@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:46:40,463 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:46:41,573 - github_scim - INFO - Created user yinpengcheng@xfusion.com with ID 8f77c484-5c66-11f0-9035-e210cdce7028
+2025-07-09 09:46:42,620 - github_scim - INFO - Creating user: pangyunan@xfusion.com
+2025-07-09 09:46:42,620 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "pangyunan@xfusion.com",
+  "active": true,
+  "userName": "pangyunan@xfusion.com",
+  "displayName": "pangyunan",
+  "emails": [
+    {
+      "value": "pangyunan@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:46:42,621 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:46:43,729 - github_scim - INFO - Created user pangyunan@xfusion.com with ID 90be0e16-5c66-11f0-8d8a-cbd67967ac50
+2025-07-09 09:46:44,439 - github_scim - INFO - Creating user: liangyangyang2@xfusion.com
+2025-07-09 09:46:44,440 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "liangyangyang2@xfusion.com",
+  "active": true,
+  "userName": "liangyangyang2@xfusion.com",
+  "displayName": "liangyangyang",
+  "emails": [
+    {
+      "value": "liangyangyang2@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:46:44,440 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:46:45,589 - github_scim - INFO - Created user liangyangyang2@xfusion.com with ID 91d7f488-5c66-11f0-8135-1100af302e49
+2025-07-09 09:46:46,365 - github_scim - INFO - Creating user: zhuzixin@xfusion.com
+2025-07-09 09:46:46,365 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhuzixin@xfusion.com",
+  "active": true,
+  "userName": "zhuzixin@xfusion.com",
+  "displayName": "zhuzixin",
+  "emails": [
+    {
+      "value": "zhuzixin@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:46:46,366 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:46:47,709 - github_scim - INFO - Created user zhuzixin@xfusion.com with ID 931455b2-5c66-11f0-9295-a62989e746ff
+2025-07-09 09:46:49,136 - github_scim - INFO - Creating user: xinguowei@xfusion.com
+2025-07-09 09:46:49,136 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "xinguowei@xfusion.com",
+  "active": true,
+  "userName": "xinguowei@xfusion.com",
+  "displayName": "xinguowei",
+  "emails": [
+    {
+      "value": "xinguowei@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:46:49,136 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:46:51,364 - github_scim - INFO - Created user xinguowei@xfusion.com with ID 95042b5e-5c66-11f0-8b1f-8050daffa6e5
+2025-07-09 09:46:52,728 - github_scim - INFO - Creating user: zhangfan4@xfusion.com
+2025-07-09 09:46:52,728 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhangfan4@xfusion.com",
+  "active": true,
+  "userName": "zhangfan4@xfusion.com",
+  "displayName": "zhangfan4",
+  "emails": [
+    {
+      "value": "zhangfan4@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:46:52,729 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:46:54,813 - github_scim - INFO - Created user zhangfan4@xfusion.com with ID 974c49aa-5c66-11f0-9190-614e8fb401ea
+2025-07-09 09:46:55,619 - github_scim - INFO - Creating user: caolong1@xfusion.com
+2025-07-09 09:46:55,619 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "caolong1@xfusion.com",
+  "active": true,
+  "userName": "caolong1@xfusion.com",
+  "displayName": "caolong1",
+  "emails": [
+    {
+      "value": "caolong1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:46:55,619 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:46:56,675 - github_scim - INFO - Created user caolong1@xfusion.com with ID 9878f90e-5c66-11f0-8d1a-28929dcd9e20
+2025-07-09 09:46:57,488 - github_scim - INFO - Creating user: wangtianwei1@xfusion.com
+2025-07-09 09:46:57,489 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wangtianwei1@xfusion.com",
+  "active": true,
+  "userName": "wangtianwei1@xfusion.com",
+  "displayName": "wangtianwei1",
+  "emails": [
+    {
+      "value": "wangtianwei1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:46:57,489 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:46:58,923 - github_scim - INFO - Created user wangtianwei1@xfusion.com with ID 99acc706-5c66-11f0-9663-2389660c270d
+2025-07-09 09:47:00,236 - github_scim - INFO - Creating user: xuyongzhou@xfusion.com
+2025-07-09 09:47:00,237 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "xuyongzhou@xfusion.com",
+  "active": true,
+  "userName": "xuyongzhou@xfusion.com",
+  "displayName": "xuyongzhou",
+  "emails": [
+    {
+      "value": "xuyongzhou@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:47:00,237 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:47:01,787 - github_scim - INFO - Created user xuyongzhou@xfusion.com with ID 9b733408-5c66-11f0-887e-996dd12b4b39
+2025-07-09 09:47:02,736 - github_scim - INFO - Creating user: xiagaofeng@xfusion.com
+2025-07-09 09:47:02,736 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "xiagaofeng@xfusion.com",
+  "active": true,
+  "userName": "xiagaofeng@xfusion.com",
+  "displayName": "xiagaofeng",
+  "emails": [
+    {
+      "value": "xiagaofeng@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:47:02,736 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:47:04,966 - github_scim - INFO - Created user xiagaofeng@xfusion.com with ID 9d1ad1a8-5c66-11f0-9087-97e5eee4e7e1
+2025-07-09 09:47:06,241 - github_scim - INFO - Creating user: lijinhao@xfusion.com
+2025-07-09 09:47:06,241 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "lijinhao@xfusion.com",
+  "active": true,
+  "userName": "lijinhao@xfusion.com",
+  "displayName": "lijinhao",
+  "emails": [
+    {
+      "value": "lijinhao@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:47:06,241 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:47:07,532 - github_scim - INFO - Created user lijinhao@xfusion.com with ID 9eee7386-5c66-11f0-9cd5-9073c3c49e2f
+2025-07-09 09:47:08,190 - github_scim - INFO - Creating user: chenghuimin@xfusion.com
+2025-07-09 09:47:08,190 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "chenghuimin@xfusion.com",
+  "active": true,
+  "userName": "chenghuimin@xfusion.com",
+  "displayName": "chenghuimin",
+  "emails": [
+    {
+      "value": "chenghuimin@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:47:08,191 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:47:09,147 - github_scim - INFO - Created user chenghuimin@xfusion.com with ID 9fef53d6-5c66-11f0-922f-91ce2a035c28
+2025-07-09 09:47:09,791 - github_scim - INFO - Creating user: weiyuyang1@xfusion.com
+2025-07-09 09:47:09,791 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "weiyuyang1@xfusion.com",
+  "active": true,
+  "userName": "weiyuyang1@xfusion.com",
+  "displayName": "weiyuyang",
+  "emails": [
+    {
+      "value": "weiyuyang1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:47:09,792 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:47:10,949 - github_scim - INFO - Created user weiyuyang1@xfusion.com with ID a10183de-5c66-11f0-92e0-b3518f39f6b7
+2025-07-09 09:47:11,654 - github_scim - INFO - Creating user: shiyunlong@xfusion.com
+2025-07-09 09:47:11,654 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "shiyunlong@xfusion.com",
+  "active": true,
+  "userName": "shiyunlong@xfusion.com",
+  "displayName": "shiyunlong",
+  "emails": [
+    {
+      "value": "shiyunlong@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-09 09:47:11,654 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-09 09:47:13,530 - github_scim - INFO - Created user shiyunlong@xfusion.com with ID a2692966-5c66-11f0-82d5-6838ccd9367d
+2025-07-09 09:47:13,530 - github_scim - INFO - Successfully completed user creation operation
+2025-07-16 09:22:18,302 - github_scim - INFO - Creating user: liuqin@xfusion.com
+2025-07-16 09:22:18,303 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "liuqin@xfusion.com",
+  "active": true,
+  "userName": "liuqin@xfusion.com",
+  "displayName": "liuqin",
+  "emails": [
+    {
+      "value": "liuqin@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:18,303 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:19,362 - github_scim - INFO - Created user liuqin@xfusion.com with ID 50dc4a88-61e3-11f0-9eb5-cf5bf0027819
+2025-07-16 09:22:19,942 - github_scim - INFO - Creating user: wanggaoshuai@xfusion.com
+2025-07-16 09:22:19,942 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wanggaoshuai@xfusion.com",
+  "active": true,
+  "userName": "wanggaoshuai@xfusion.com",
+  "displayName": "wanggaoshuai",
+  "emails": [
+    {
+      "value": "wanggaoshuai@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:19,942 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:20,960 - github_scim - INFO - Created user wanggaoshuai@xfusion.com with ID 51d58cce-61e3-11f0-9459-4ff8a09b87ea
+2025-07-16 09:22:21,572 - github_scim - INFO - Creating user: luyichang@xfusion.com
+2025-07-16 09:22:21,572 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "luyichang@xfusion.com",
+  "active": true,
+  "userName": "luyichang@xfusion.com",
+  "displayName": "luyichang",
+  "emails": [
+    {
+      "value": "luyichang@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:21,572 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:22,924 - github_scim - INFO - Created user luyichang@xfusion.com with ID 52f75696-61e3-11f0-8943-0ef242ff946b
+2025-07-16 09:22:23,503 - github_scim - INFO - Creating user: liying1@xfusion.com
+2025-07-16 09:22:23,503 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "liying1@xfusion.com",
+  "active": true,
+  "userName": "liying1@xfusion.com",
+  "displayName": "liying",
+  "emails": [
+    {
+      "value": "liying1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:23,503 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:24,491 - github_scim - INFO - Created user liying1@xfusion.com with ID 53f1c86a-61e3-11f0-8d72-c8907220b8a7
+2025-07-16 09:22:25,132 - github_scim - INFO - Creating user: fanyongchao@xfusion.com
+2025-07-16 09:22:25,133 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "fanyongchao@xfusion.com",
+  "active": true,
+  "userName": "fanyongchao@xfusion.com",
+  "displayName": "fanyongchao",
+  "emails": [
+    {
+      "value": "fanyongchao@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:25,133 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:26,162 - github_scim - INFO - Created user fanyongchao@xfusion.com with ID 54ef6312-61e3-11f0-8e7e-e082768cdf87
+2025-07-16 09:22:26,772 - github_scim - INFO - Creating user: lilinhai@xfusion.com
+2025-07-16 09:22:26,772 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "lilinhai@xfusion.com",
+  "active": true,
+  "userName": "lilinhai@xfusion.com",
+  "displayName": "lilinhai",
+  "emails": [
+    {
+      "value": "lilinhai@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:26,773 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:27,760 - github_scim - INFO - Created user lilinhai@xfusion.com with ID 55e45282-61e3-11f0-94d1-cd70de85b702
+2025-07-16 09:22:28,351 - github_scim - INFO - Creating user: wangkeyong@xfusion.com
+2025-07-16 09:22:28,352 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wangkeyong@xfusion.com",
+  "active": true,
+  "userName": "wangkeyong@xfusion.com",
+  "displayName": "wangkeyong",
+  "emails": [
+    {
+      "value": "wangkeyong@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:28,352 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:29,712 - github_scim - INFO - Created user wangkeyong@xfusion.com with ID 57093236-61e3-11f0-9b9b-90cea5698062
+2025-07-16 09:22:30,303 - github_scim - INFO - Creating user: hepeng.he@xfusion.com
+2025-07-16 09:22:30,303 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "hepeng.he@xfusion.com",
+  "active": true,
+  "userName": "hepeng.he@xfusion.com",
+  "displayName": "hepeng",
+  "emails": [
+    {
+      "value": "hepeng.he@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:30,303 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:31,230 - github_scim - INFO - Created user hepeng.he@xfusion.com with ID 57f5975c-61e3-11f0-8f4f-f6da9fc4f398
+2025-07-16 09:22:31,820 - github_scim - INFO - Creating user: liuhongcheng@xfusion.com
+2025-07-16 09:22:31,821 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "liuhongcheng@xfusion.com",
+  "active": true,
+  "userName": "liuhongcheng@xfusion.com",
+  "displayName": "liuhongcheng",
+  "emails": [
+    {
+      "value": "liuhongcheng@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:31,821 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:32,801 - github_scim - INFO - Created user liuhongcheng@xfusion.com with ID 58e404b4-61e3-11f0-8db8-e21b9be0b716
+2025-07-16 09:22:33,422 - github_scim - INFO - Creating user: pengjinzhuo@xfusion.com
+2025-07-16 09:22:33,422 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "pengjinzhuo@xfusion.com",
+  "active": true,
+  "userName": "pengjinzhuo@xfusion.com",
+  "displayName": "pengjinzhuo",
+  "emails": [
+    {
+      "value": "pengjinzhuo@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:33,422 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:34,502 - github_scim - INFO - Created user pengjinzhuo@xfusion.com with ID 59e644a8-61e3-11f0-9a14-30d1d67473bf
+2025-07-16 09:22:35,092 - github_scim - INFO - Creating user: wangzhitang@xfusion.com
+2025-07-16 09:22:35,092 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "wangzhitang@xfusion.com",
+  "active": true,
+  "userName": "wangzhitang@xfusion.com",
+  "displayName": "wangzhitang",
+  "emails": [
+    {
+      "value": "wangzhitang@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:35,092 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:36,042 - github_scim - INFO - Created user wangzhitang@xfusion.com with ID 5ad430aa-61e3-11f0-8818-0c148e60661c
+2025-07-16 09:22:36,614 - github_scim - INFO - Creating user: daijianqiang@xfusion.com
+2025-07-16 09:22:36,615 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "daijianqiang@xfusion.com",
+  "active": true,
+  "userName": "daijianqiang@xfusion.com",
+  "displayName": "daijianqiang",
+  "emails": [
+    {
+      "value": "daijianqiang@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:36,615 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:37,602 - github_scim - INFO - Created user daijianqiang@xfusion.com with ID 5bc0da90-61e3-11f0-8b20-3aea1bd0cde2
+2025-07-16 09:22:38,192 - github_scim - INFO - Creating user: tangpeixing@xfusion.com
+2025-07-16 09:22:38,192 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "tangpeixing@xfusion.com",
+  "active": true,
+  "userName": "tangpeixing@xfusion.com",
+  "displayName": "tangpeixing",
+  "emails": [
+    {
+      "value": "tangpeixing@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:38,192 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:39,121 - github_scim - INFO - Created user tangpeixing@xfusion.com with ID 5ca8a668-61e3-11f0-845e-4166598c4eb9
+2025-07-16 09:22:39,713 - github_scim - INFO - Creating user: chengyujun@xfusion.com
+2025-07-16 09:22:39,713 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "chengyujun@xfusion.com",
+  "active": true,
+  "userName": "chengyujun@xfusion.com",
+  "displayName": "chengyujun",
+  "emails": [
+    {
+      "value": "chengyujun@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:39,714 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:40,832 - github_scim - INFO - Created user chengyujun@xfusion.com with ID 5dacf0aa-61e3-11f0-8341-bad3261d7862
+2025-07-16 09:22:41,442 - github_scim - INFO - Creating user: donghuimin@xfusion.com
+2025-07-16 09:22:41,442 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "donghuimin@xfusion.com",
+  "active": true,
+  "userName": "donghuimin@xfusion.com",
+  "displayName": "donghuimin",
+  "emails": [
+    {
+      "value": "donghuimin@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:41,442 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:42,459 - github_scim - INFO - Created user donghuimin@xfusion.com with ID 5ea5e44e-61e3-11f0-8b6a-ab09f6e4b83b
+2025-07-16 09:22:43,051 - github_scim - INFO - Creating user: zhangtao1@xfusion.com
+2025-07-16 09:22:43,052 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "zhangtao1@xfusion.com",
+  "active": true,
+  "userName": "zhangtao1@xfusion.com",
+  "displayName": "zhangtao",
+  "emails": [
+    {
+      "value": "zhangtao1@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:43,052 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:44,581 - github_scim - INFO - Created user zhangtao1@xfusion.com with ID 5fe8be80-61e3-11f0-9e67-785d8cb8e7a2
+2025-07-16 09:22:45,166 - github_scim - INFO - Creating user: tengyadong@xfusion.com
+2025-07-16 09:22:45,166 - github_scim - INFO - User data: {
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "tengyadong@xfusion.com",
+  "active": true,
+  "userName": "tengyadong@xfusion.com",
+  "displayName": "tengyadong",
+  "emails": [
+    {
+      "value": "tengyadong@xfusion.com",
+      "type": "work",
+      "primary": true
+    }
+  ],
+  "roles": [
+    {
+      "value": "user",
+      "primary": true
+    }
+  ]
+}
+2025-07-16 09:22:45,166 - github_scim - INFO - SCIM endpoint: https://api.github.com/scim/v2/enterprises/xfusion-digital-technologies/Users
+2025-07-16 09:22:46,042 - github_scim - INFO - Created user tengyadong@xfusion.com with ID 60cdc12e-61e3-11f0-824c-c3daf5377a18
+2025-07-16 09:22:46,042 - github_scim - INFO - Successfully completed user creation operation
